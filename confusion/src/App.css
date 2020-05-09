@@ -11,14 +11,14 @@
 }
 
 .footer{
-    background-color: rgb(144, 146, 250);
+    background-color: rgb(247, 230, 175);
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: rgb(77, 3, 206) ;
+    background: rgb(163, 118, 21) ;
     color:floralwhite;
 }
 
@@ -29,5 +29,5 @@ address{
 }
 
 .navbar-dark {
-    background-color: rgb(32, 5, 94);
+    background-color: rgb(65, 56, 33);
 }
